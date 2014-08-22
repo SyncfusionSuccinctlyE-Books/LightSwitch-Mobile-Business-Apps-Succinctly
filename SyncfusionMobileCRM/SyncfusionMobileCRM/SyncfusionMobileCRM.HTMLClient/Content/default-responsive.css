@@ -1,0 +1,61 @@
+@media (min-width: 1920px){
+	.row-fluid .cols-sample-area{
+	  width: 72.956%;
+	  *width: 72.956%;		
+	}	
+	.row-fluid .cols-sample-area{
+	  min-height:406px;		
+	}
+	.row-fluid .cols-prop-area{	   
+		height: 100%;		
+		min-height: 406px;		
+		width: 24.9146%;
+	}		
+	.row-fluid [class*="span3"] {
+		width:46.933667%;
+		margin-left:0px;
+	}
+	
+}
+@media (min-width: 1024px) and (max-width: 1920px){
+	
+	.row-fluid .cols-sample-area{
+	  width: 72.956%;
+	  *width: 72.956%;		
+	}	
+	.row-fluid .cols-sample-area{
+	  min-height:406px;		
+	}
+	.row-fluid .cols-prop-area{	   
+		height: 100%;		
+		min-height: 406px;
+		width: 24.9146%;
+		
+	}		
+	.cols-prop-area  [class^="span"] {
+		width:46.933667%;
+		margin-left:0px;
+	}	
+	
+}
+
+@media (min-width: 480px) and (max-width: 1023px){
+	.row-fluid .cols-sample-area,.row-fluid .cols-prop-area{
+		margin-left:0px;
+		 width: 100%;
+		*width: 100%; 
+		margin-left:0px;
+		
+	}
+	.cols-prop-area [class*="span3"]{
+		width:46.933667%;		
+		margin-left:0px;
+        
+	}
+    .prop-grid.keyboard  [class^="span"]{
+	height: 30px;
+    min-height:30px;	
+}
+
+}
+

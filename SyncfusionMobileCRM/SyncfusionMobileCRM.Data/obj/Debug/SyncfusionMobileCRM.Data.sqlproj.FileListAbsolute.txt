@@ -1,0 +1,11 @@
+c:\Users\Jan\Documents\Visual Studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM.Data\bin\Debug\SyncfusionMobileCRM.Data.dacpac
+c:\Users\Jan\Documents\Visual Studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM.Data\obj\Debug\SyncfusionMobileCRM.Data.sqlprojResolveAssemblyReference.cache
+c:\Users\Jan\Documents\Visual Studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM.Data\obj\Debug\SyncfusionMobileCRM.Data.dll
+c:\Users\Jan\Documents\Visual Studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM.Data\obj\Debug\SyncfusionMobileCRM.Data.pdb
+c:\Users\Jan\Documents\Visual Studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM.Data\bin\Debug\SyncfusionMobileCRM.Data.dll
+c:\Users\Jan\Documents\Visual Studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM.Data\bin\Debug\SyncfusionMobileCRM.Data.pdb
+c:\Users\Jan\Documents\Visual Studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM.Data\bin\Debug\ApplicationSchema.dacpac
+C:\Users\Jan\documents\visual studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM.Data\obj\Debug\Model.xml
+C:\Users\Jan\documents\visual studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM.Data\obj\Debug\refactor.xml
+C:\Users\Jan\documents\visual studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM.Data\obj\Debug\postdeploy.sql
+C:\Users\Jan\documents\visual studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM.Data\obj\Debug\predeploy.sql

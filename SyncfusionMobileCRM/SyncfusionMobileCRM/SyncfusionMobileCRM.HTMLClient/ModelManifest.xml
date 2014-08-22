@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="C:\Users\Jan\Documents\Visual Studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM\SyncfusionMobileCRM.HTMLClient\Properties\Client.lsml" Checksum="5DEF25DEA233586681ED796760EBBC99A5EEE7E83A1484FFD22D73451A410A7D" />
+    <Document FullPath="C:\Users\Jan\Documents\Visual Studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM\SyncfusionMobileCRM.HTMLClient\Properties\Proxies.lsml" Checksum="01398FDBA6FB37EDBFE6B1D34BDB1DD4D150094AE7F61CD76F1BC58A6E04C106" />
+    <Document FullPath="C:\Users\Jan\Documents\Visual Studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM\SyncfusionMobileCRM.HTMLClient\Screens\AddEditCustomer.lsml" Checksum="9AE865DC0D52044BDF7053AF93C47C23A6EB6A538198536BD1963C4F109D5953" />
+    <Document FullPath="C:\Users\Jan\Documents\Visual Studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM\SyncfusionMobileCRM.HTMLClient\Screens\BrowseCustomers.lsml" Checksum="D52E4AE734B6D3EC0C98FC3D5C5B327E70825ED6D72345DF1AFE5CBB427FB9C1" />
+  </Documents>
+</ModelDocumentManifest>

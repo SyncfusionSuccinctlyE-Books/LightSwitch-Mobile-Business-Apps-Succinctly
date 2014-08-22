@@ -1,0 +1,2 @@
+C:\Users\Jan\Documents\Visual Studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM\SyncfusionMobileCRM.HTMLClient\bin\Release\LSResourceGeneratorsTask.mcs
+C:\Users\Jan\Documents\Visual Studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM\SyncfusionMobileCRM.HTMLClient\bin\Release\LSClientCodeGeneratorsTask.mcs

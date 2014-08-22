@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8D9C8A9D-5DED-4B64-BF65-B598BA549D93}") = "SyncfusionMobileCRM", "SyncfusionMobileCRM\SyncfusionMobileCRM.lsxproj", "{879C804D-95EF-4A91-91AC-2FC3AF3982D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncfusionMobileCRM.Server", "SyncfusionMobileCRM\SyncfusionMobileCRM.Server\SyncfusionMobileCRM.Server.csproj", "{13926DDB-BA34-4A25-AD97-AE89026593E9}"
+EndProject
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "SyncfusionMobileCRM.HTMLClient", "SyncfusionMobileCRM\SyncfusionMobileCRM.HTMLClient\SyncfusionMobileCRM.HTMLClient.jsproj", "{9EADAF0C-D6B9-4F66-B319-D11C4338F7EA}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SyncfusionMobileCRM.Data", "SyncfusionMobileCRM.Data\SyncfusionMobileCRM.Data.sqlproj", "{EC207383-770D-4C11-ACD1-E988376C8DEB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{879C804D-95EF-4A91-91AC-2FC3AF3982D9} = {879C804D-95EF-4A91-91AC-2FC3AF3982D9}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{879C804D-95EF-4A91-91AC-2FC3AF3982D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879C804D-95EF-4A91-91AC-2FC3AF3982D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879C804D-95EF-4A91-91AC-2FC3AF3982D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879C804D-95EF-4A91-91AC-2FC3AF3982D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13926DDB-BA34-4A25-AD97-AE89026593E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13926DDB-BA34-4A25-AD97-AE89026593E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13926DDB-BA34-4A25-AD97-AE89026593E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13926DDB-BA34-4A25-AD97-AE89026593E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EADAF0C-D6B9-4F66-B319-D11C4338F7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EADAF0C-D6B9-4F66-B319-D11C4338F7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EADAF0C-D6B9-4F66-B319-D11C4338F7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EADAF0C-D6B9-4F66-B319-D11C4338F7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC207383-770D-4C11-ACD1-E988376C8DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC207383-770D-4C11-ACD1-E988376C8DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC207383-770D-4C11-ACD1-E988376C8DEB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EC207383-770D-4C11-ACD1-E988376C8DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC207383-770D-4C11-ACD1-E988376C8DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC207383-770D-4C11-ACD1-E988376C8DEB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

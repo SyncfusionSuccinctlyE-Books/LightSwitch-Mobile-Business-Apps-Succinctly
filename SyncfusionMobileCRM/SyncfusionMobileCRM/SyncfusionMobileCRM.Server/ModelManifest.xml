@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="C:\Users\Jan\Documents\Visual Studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM\SyncfusionMobileCRM.Server\DataSources\ApplicationData\Customers.lsml" Checksum="60B93FE3D477454262CEC1CCC096EA26886AB046B343DBD172333536AC9C34B0" />
+    <Document FullPath="C:\Users\Jan\Documents\Visual Studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM\SyncfusionMobileCRM.Server\DataSources\ApplicationData\Orders.lsml" Checksum="A33848714B4A7A27C1DA2889EAD56CEDA54111CB804861C140A7B7F9870B6BB9" />
+    <Document FullPath="C:\Users\Jan\Documents\Visual Studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM\SyncfusionMobileCRM.Server\Properties\DataSources\ApplicationData.lsml" Checksum="4269B7A1C607D3AEA1D34BA816EE24BE223A014F83A97F863157835AA09C6154" />
+    <Document FullPath="C:\Users\Jan\Documents\Visual Studio 2013\Projects\SyncfusionMobileCRM\SyncfusionMobileCRM\SyncfusionMobileCRM.Server\Properties\Service.lsml" Checksum="679C78F29C5AF23E9956A773B0E46DF90F7B86CADA0B79571E5896A1C79F5B70" />
+  </Documents>
+</ModelDocumentManifest>
